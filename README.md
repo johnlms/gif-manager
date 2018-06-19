@@ -19,3 +19,5 @@ Jackson
 
 The project is built using the Spring Tools Suite which is basically Eclipse and is built as a stand-alone Spring Boot jar file.
 In order to deploy the jar, you simply copy the jar to a location of your choice and launch it using `java -jar <filename>`.
+
+Test update with IntelliJ.
